@@ -1,0 +1,1 @@
+项目中 stusql.cpp 目录下的  m_db.setDatabaseName("D:\\Code\\ManageMent\\management.db"); 代码中的management.db 路径需要改为你存放management.db的位置
